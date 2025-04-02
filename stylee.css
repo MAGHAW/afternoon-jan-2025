@@ -1,0 +1,22 @@
+body{
+    background-image: url(magh.JPG);
+    background-size: cover;
+    background-size: 18%;
+}
+h1{
+    color: blue;
+    text-align: center;
+    border:2px solid ;
+    background-color: gray;
+    border-radius: 24px;
+    border-color: red;
+    border-width: 6px;
+}
+.AC{
+    color: white;
+    background-color: blue;
+    border:  2PX solid;
+    padding-left: 20PX;
+    padding-top: 20PX;
+    padding-bottom: 20PX;
+}
